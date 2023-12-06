@@ -3,6 +3,7 @@
 
 This repository contains the solutions for the tasks in the 0x00. Python - Hello, World project. Each task focuses on different aspects of Python programming, including printing messages, using variables, and basic data types.
 
+
 ## Files
 
 * `0-run`: A Bash script that runs a Python script stored in an environment variable.
@@ -19,14 +20,12 @@ This repository contains the solutions for the tasks in the 0x00. Python - Hello
 * `100-write.py`: A Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
 * `101-compile`: A  script that compiles a Python script file.
 * `102-magic_calculation.py`: A  Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
-
   3           0 LOAD_CONST               1 (98)
               3 LOAD_FAST                0 (a)
               6 LOAD_FAST                1 (b)
               9 BINARY_POWER
              10 BINARY_ADD
              11 RETURN_VALUE
-
 
 ## Author
 
