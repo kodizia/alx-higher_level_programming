@@ -4,5 +4,5 @@
 
 
 class Square:
-    """Does nothing"""
+    """An empty Square class"""
     pass
