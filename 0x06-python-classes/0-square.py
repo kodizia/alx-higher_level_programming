@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-class square:
-    """A square object class that
-    can be used to represent a square"""
+#0-square.py by medici
+"""Defines a square object class"""
+class Square:
+    """ Does nothing"""
     pass
