@@ -2,9 +2,10 @@
 # 0-square.py by kodizia
 """Defines a square """
 
+
 class Square:
     """A Square class"""
-    
+
     def __init__(self, size=0):
         """Initialize the square.
 
